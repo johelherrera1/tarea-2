@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration-style: solid;
+    
+}
+.card{
+    width: fit-content;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
+.btn{
+    padding-top: 8px;
+    justify-content: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+}
